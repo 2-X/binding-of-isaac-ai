@@ -3,6 +3,7 @@
 ---------------------------
 
 DEBUG INFO:
+[] test
 [] render adjacent indices relative to player position? OR
 [] render all indices in the room and whether or not they are blocked
 [] add a keypress that toggles debug information
