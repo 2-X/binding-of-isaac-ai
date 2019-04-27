@@ -1,0 +1,123 @@
+130 -- A Pony
+65 -- Anarchist Cookbook
+136 -- Best Friend
+286 -- Blank Card
+186 -- Blood Rights
+42 -- Bob's Rotten Head
+78 -- Book of Revelations
+287 -- Book of Secrets
+58 -- Book of Shadows
+288 -- Box of Spiders
+326 -- Breath of Life
+294 -- Butter Bean
+296 -- Converter
+160 -- Crack the Sky
+158 -- Crystal Ball
+285 -- D10
+283 -- D100
+166 -- D20
+284 -- D4
+175 -- Dad's Key
+124 -- Dead Sea Scrolls
+85 -- Deck of Cards
+47 -- Doctor's Remote
+291 -- Flush!
+127 -- Forget Me Now
+145 -- Guppy's Head
+133 -- Guppy's Paw
+293 -- Head of Krampus
+282 -- How to Jump
+323 -- Isaac's Tears
+135 -- IV Bag
+40 -- Kamikaze!
+56 -- Lemon Mishap
+295 -- Magic Fingers
+102 -- Mom's Bottle of Pills
+39 -- Mom's Bra
+41 -- Mom's Pad
+123 -- Monster Manual
+86 -- Monstro's Tooth
+37 -- Mr. Boom
+77 -- My Little Unicorn
+147 -- Notched Axe
+297 -- Pandora's Box
+177 -- Portable Slot
+146 -- Prayer Card
+126 -- Razor Blade
+289 -- Red Candle
+137 -- Remote Detonator
+292 -- Satanic Bible
+325 -- Scissors
+49 -- Shoop Da Whoop!
+171 -- Spider Butt
+38 -- Tammy's Head
+192 -- Telepathy for Dummies
+44 -- Teleport
+111 -- The Bean
+33 -- The Bible
+34 -- The Book of Belial
+97 -- The Book of Sin
+338 -- The Boomerang
+164 -- The Candle
+105 -- The D6
+93 -- The Gamekid
+66 -- The Hourglass
+290 -- The Jar
+83 -- The Nail
+35 -- The Necronomicon
+107 -- The Pinking Shears
+36 -- The Poop
+324 -- Undefined
+298 -- Unicorn Stump
+84 -- We Need to Go Deeper!
+181 -- White Pony
+45 -- Yum Heart
+357 -- Box of Friends
+386 -- D12
+437 -- D7
+406 -- D8
+347 -- Diplopia
+382 -- Friendly Ball
+352 -- Glass Cannon
+422 -- Glowing Hour Glass
+434 -- Jar of Flies
+421 -- Kidney Bean
+351 -- Mega Bean
+441 -- Mega Blast
+427 -- Mine Crafter
+439 -- Mom's Box
+348 -- Placebo
+383 -- Tear Detonator
+419 -- Teleport 2.0
+396 -- Ventricle Razor
+349 -- Wooden Nickel
+512 -- Black Hole
+545 -- Book of the Dead
+550 -- Broken Shovel
+504 -- Brown Nugget
+482 -- Clicker
+480 -- Compost
+521 -- Coupon
+485 -- Crooked Penny
+489 -- D Infinity
+476 -- D1
+481 -- Dataminer
+510 -- Delirious
+486 -- Dull Razor
+490 -- Eden's Soul
+483 -- Mama Mega!
+488 -- Metronome
+552 -- Mom's Shovel
+523 -- Moving Box
+527 -- Mr. ME!
+515 -- Mystery Gift
+478 -- Pause
+475 -- Plan C
+487 -- Potato Peeler
+536 -- Sacrificial Altar
+507 -- Sharp Straw
+479 -- Smelter
+516 -- Sprinkler
+522 -- Telekinesis
+477 -- Void
+484 -- Wait What?

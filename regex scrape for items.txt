@@ -1,0 +1,5 @@
+find:
+^([0-9]+)\s+--\s+(.*)$
+
+replace with:
+addEntitySubType\(5, 350, $1, "$2"\)

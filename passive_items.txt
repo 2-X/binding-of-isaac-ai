@@ -1,0 +1,424 @@
+320 -- ???'s Only Friend
+11 -- 1up!
+245 -- 20/20
+191 -- 3 Dollar Bill
+116 -- 9 Volt
+18 -- A Dollar
+132 -- A Lump of Coal
+74 -- A Quarter
+346 -- A Snack
+230 -- Abaddon
+188 -- Abel
+214 -- Anemic
+161 -- Ankh
+222 -- Anti-Gravity
+308 -- Aquarius
+300 -- Aries
+207 -- Ball of Bandages
+231 -- Ball of Tar
+272 -- BBF
+274 -- Best Bud
+247 -- BFFS!
+279 -- Big Fan
+260 -- Black Candle
+226 -- Black Lotus
+119 -- Blood Bag
+254 -- Blood Clot
+7 -- Blood of the Martyr
+157 -- Bloody Lust
+342 -- Blue Cap
+246 -- Blue Map
+273 -- Bob's Brain
+140 -- Bob's Curse
+125 -- Bobby-Bomb
+250 -- Bogo Bombs
+131 -- Bomb Bag
+19 -- Boom!
+198 -- Box
+25 -- Breakfast
+118 -- Brimstone
+337 -- Broken Watch
+8 -- Brother Bobby
+129 -- Bucket of Lard
+144 -- Bum Friend
+209 -- Butt Bombs
+340 -- Caffeine Pill
+319 -- Cain's Other Eye
+301 -- Cancer
+307 -- Capricorn
+165 -- Cat-O-Nine-Tails
+162 -- Celtic Cross
+216 -- Ceremonial Robes
+208 -- Champion Belt
+62 -- Charm of the Vampire
+154 -- Chemical Peel
+69 -- Chocolate Milk
+241 -- Contract From Below
+224 -- Cricket's Body
+4 -- Cricket's Head
+73 -- Cube of Meat
+48 -- Cupid's Arrow
+316 -- Cursed Eye
+170 -- Daddy Longlegs
+278 -- Dark Bum
+259 -- Dark Matter
+117 -- Dead Bird
+81 -- Dead Cat
+185 -- Dead Dove
+336 -- Dead Onion
+237 -- Death's Touch
+113 -- Demon Baby
+24 -- Dessert
+23 -- Dinner
+57 -- Distant Admiration
+52 -- Dr. Fetus
+265 -- Dry Baby
+236 -- E Coli
+168 -- Epic Fetus
+310 -- Eve's Mascara
+240 -- Experimental Treatment
+204 -- Fanny Pack
+179 -- Fate
+257 -- Fire Mind
+128 -- Forever Alone
+318 -- Gemini
+163 -- Ghost Baby
+225 -- Gimpy
+210 -- Gnawed Leaf
+215 -- Goat Head
+331 -- Godhead
+70 -- Growth Hormones
+112 -- Guardian Angel
+206 -- Guillotine
+212 -- Guppy's Collar
+187 -- Guppy's Hair Ball
+134 -- Guppy's Tail
+156 -- Habit
+10 -- Halo of Flies
+167 -- Harlequin Baby
+269 -- Headless Baby
+248 -- Hive Mind
+184 -- Holy Grail
+313 -- Holy Mantle
+178 -- Holy Water
+256 -- Hot Bombs
+203 -- Humbling Bundle
+242 -- Infamy
+148 -- Infestation
+234 -- Infestation 2
+149 -- Ipecac
+201 -- Iron Bar
+276 -- Isaac's Heart
+197 -- Jesus Juice
+311 -- Judas' Shadow
+266 -- Juicy Sack
+238 -- Key Piece 1
+239 -- Key Piece 2
+343 -- Latch Key
+332 -- Lazarus' Rags
+270 -- Leech
+302 -- Leo
+15 -- <3
+304 -- Libra
+275 -- Lil Brimstone
+277 -- Lil Haunt
+252 -- Little Baggy
+96 -- Little C.H.A.D.
+88 -- Little Chubby
+99 -- Little Gish
+100 -- Little Steven
+87 -- Loki's Horns
+82 -- Lord of the Pit
+213 -- Lost Contact
+46 -- Lucky Foot
+22 -- Lunch
+312 -- Maggy's Bow
+194 -- Magic 8 Ball
+12 -- Magic Mushroom
+253 -- Magic Scab
+53 -- Magneto
+344 -- Match Book
+193 -- MEAT!
+202 -- Midas' Touch
+71 -- Mini Mush
+258 -- Missing No.
+262 -- Missing Page 2
+173 -- Mitre
+195 -- Mom's Coin Purse
+110 -- Mom's Contacts
+55 -- Mom's Eye
+200 -- Mom's Eyeshadow
+30 -- Mom's Heels
+199 -- Mom's Key
+114 -- Mom's Knife
+31 -- Mom's Lipstick
+228 -- Mom's Perfume
+139 -- Mom's Purse
+29 -- Mom's Underwear
+217 -- Mom's Wig
+109 -- Money = Power
+322 -- Mongo Baby
+229 -- Monstro's Lung
+106 -- Mr. Mega
+153 -- Mutant Spider
+5 -- My Reflection
+317 -- Mysterious Liquid
+271 -- Mystery Sack
+6 -- Number One
+121 -- Odd Mushroom
+120 -- Odd Mushroom
+219 -- Old Bandage
+115 -- Ouija Board
+141 -- Pageant Boy
+51 -- Pentagram
+75 -- PHD
+227 -- Piggy Bank
+309 -- Pisces
+218 -- Placenta
+169 -- Polyphemus
+261 -- Proptosis
+281 -- Punching Bag
+190 -- Pyro
+223 -- Pyromaniac
+174 -- Rainbow Baby
+16 -- Raw Liver
+95 -- Robo-Baby
+267 -- Robo-Baby 2.0
+14 -- Roid Rage
+72 -- Rosary
+268 -- Rotten Baby
+26 -- Rotten Meat
+221 -- Rubber Cement
+94 -- Sack of Pennies
+182 -- Sacred Heart
+172 -- Sacrificial Dagger
+220 -- Sad Bombs
+339 -- Safety Pin
+306 -- Sagittarius
+321 -- Samson's Chains
+142 -- Scapular
+305 -- Scorpio
+255 -- Screw
+205 -- Sharp Plug
+280 -- Sissy Longlegs
+67 -- Sister Maggy
+9 -- Skatole
+17 -- Skeleton Key
+264 -- Smart Fly
+189 -- SMB Super Fan
+330 -- Soy Milk
+143 -- Speed Ball
+91 -- Spelunker Hat
+211 -- Spider Baby
+89 -- Spider Bite
+159 -- Spirit of the Night
+3 -- Spoon Bender
+196 -- Squeezy
+251 -- Starter Deck
+64 -- Steam Sale
+176 -- Stem Cells
+50 -- Steven
+138 -- Stigmata
+232 -- Stop Watch
+315 -- Strange Attractor
+92 -- Super Bandage
+345 -- Synthoil
+299 -- Taurus
+244 -- Tech.5
+68 -- Technology
+152 -- Technology 2
+63 -- The Battery
+28 -- The Belt
+180 -- The Black Bean
+334 -- The Body
+103 -- The Common Cold
+21 -- The Compass
+101 -- The Halo
+2 -- The Inner Eye
+60 -- The Ladder
+329 -- The Ludovico Technique
+79 -- The Mark
+333 -- The Mind
+151 -- The Mulligan
+328 -- The Negative
+80 -- The Pact
+104 -- The Parasite
+155 -- The Peeper
+327 -- The Polaroid
+98 -- The Relic
+1 -- The Sad Onion
+90 -- The Small Rock
+335 -- The Soul
+13 -- The Virus
+108 -- The Wafer
+249 -- There's Options
+314 -- Thunder Thighs
+233 -- Tiny Planet
+183 -- Toothpicks
+341 -- Torn Photo
+150 -- Tough Love
+20 -- Transcendence
+54 -- Treasure Map
+243 -- Trinity Shield
+303 -- Virgo
+122 -- Whore of Babylon
+32 -- Wire Coat Hanger
+27 -- Wooden Spoon
+76 -- X-Ray Vision
+359 -- 8 Inch Nails
+408 -- Athame
+391 -- Betrayal
+438 -- Binky
+420 -- Black Powder
+353 -- Bomber Boy
+385 -- Bumbo
+377 -- Bursting Sack
+412 -- Cambion Conception
+356 -- Car Battery
+387 -- Censer
+402 -- Chaos
+372 -- Charged Baby
+423 -- Circle of Protection
+369 -- Continuum
+354 -- Crack Jacks
+415 -- Crown of Light
+371 -- Curse of the Tower
+373 -- Dead Eye
+416 -- Deep Pockets
+381 -- Eden's Blessing
+409 -- Empty Vessel
+368 -- Epiphora
+410 -- Evil Eye
+401 -- Explosivo
+404 -- Farting Baby
+361 -- Fate's Reward
+364 -- Friend Zone
+418 -- Fruit Cake
+405 -- GB Bug
+432 -- Glitter Bombs
+398 -- God's Flesh
+429 -- Head of the Keeper
+374 -- Holy Light
+375 -- Host Hat
+413 -- Immaculate Conception
+360 -- Incubus
+388 -- Key Bum
+440 -- Kidney Stone
+362 -- Lil Chest
+384 -- Lil Gurdy
+435 -- Lil' Loki
+365 -- Lost Fly
+411 -- Lusty Blood
+394 -- Marked
+399 -- Maw of the Void
+436 -- Milk!
+355 -- Mom's Pearls
+414 -- More Options
+370 -- Mr. Dolly
+431 -- Multidimensional Baby
+433 -- My Shadow
+425 -- Night Light
+378 -- No. 2
+426 -- Obsessed Fan
+430 -- Papa Fly
+380 -- Pay to Play
+428 -- PJs
+379 -- Pupula Duplex
+407 -- Purity
+376 -- Restock
+389 -- Rune Bag
+424 -- Sack Head
+366 -- Scatter Bombs
+390 -- Seraphim
+393 -- Serpent's Kiss
+400 -- Spear of Destiny
+403 -- Spider Mod
+367 -- Sticky Bombs
+417 -- Succubus
+363 -- Sworn Protector
+395 -- Tech X
+358 -- The Wiz
+350 -- Toxic Shock
+397 -- Tractor Beam
+392 -- Zodiac
+526 -- 7 Seals
+491 -- Acid Baby
+493 -- Adrenaline
+465 -- Analog Stick
+528 -- Angelic Prism
+511 -- Angry Fly
+443 -- Apple!
+506 -- Backstabber
+458 -- Belly Button
+473 -- Big Chubby
+535 -- Blanket
+509 -- Bloodshot Eye
+513 -- Bozo
+549 -- Brittle Bones
+514 -- Broken Modem
+551 -- Broken Shovel
+518 -- Buddy in a Box
+497 -- Camo Undies
+453 -- Compound Fracture
+457 -- Cone Head
+466 -- Contagion
+455 -- Dad's Lost Coin
+546 -- Dad's Ring
+442 -- Dark Prince's Crown
+446 -- Dead Tooth
+530 -- Death's List
+469 -- Depression
+547 -- Divorce Papers
+445 -- Dog Tooth
+498 -- Duality
+499 -- Eucharist
+496 -- Euthanasia
+462 -- Eye of Belial
+450 -- Eye of Greed
+517 -- Fast Bombs
+467 -- Finger!
+540 -- Flat Stone
+495 -- Ghost Pepper
+460 -- Glaucoma
+464 -- Glyph of Balance
+501 -- Greed's Gullet
+531 -- Haemolacria
+543 -- Hallowed Ground
+470 -- Hushy
+494 -- Jacob's Ladder
+548 -- Jaw Bone
+520 -- Jumper Cables
+472 -- King Baby
+532 -- Lachryphagy
+502 -- Large Zit
+444 -- Lead Pencil
+525 -- Leprosy
+519 -- Lil Delirium
+471 -- Lil Monstro
+537 -- Lil Spewer
+447 -- Linger Bean
+503 -- Little Horn
+538 -- Marbles
+541 -- Marrow
+449 -- Metal Plate
+456 -- Moldy Bread
+508 -- Mom's Razor
+539 -- Mystery Egg
+461 -- Parasitoid
+544 -- Pointy Rib
+505 -- Poke Go
+454 -- Polydactyly
+529 -- Pop!
+500 -- Sack of Sacks
+534 -- Schoolbag
+468 -- Shade
+448 -- Shard of Glass
+459 -- Sinus Infection
+542 -- Slipped Rib
+463 -- Sulfuric Acid
+451 -- Tarot Cloth
+524 -- Technology Zero
+474 -- Tonsil
+533 -- Trisagion
+452 -- Varicose Veins
+492 -- YO LISTEN!

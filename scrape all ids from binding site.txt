@@ -1,0 +1,19 @@
+((some_class) => {
+
+
+	var ids = [];
+
+	const instances = $(some_class);
+
+
+	$(some_class).each((i) => {
+
+		if (instances[i].innerText.match(/^[0-9]+$/g)) {
+			ids.push(instances[i].innerText + " -- " + instances[i-1].innerText);
+		}
+	});
+
+	let str = "";
+	ids.forEach((item) => { str += "\n" + item });
+	return str;
+})('td')

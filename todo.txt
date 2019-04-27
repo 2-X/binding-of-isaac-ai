@@ -1,0 +1,46 @@
+---------------------------
+-------- TODO LIST --------
+---------------------------
+
+DEBUG INFO:
+[] render adjacent indices relative to player position? OR
+[] render all indices in the room and whether or not they are blocked
+[] add a keypress that toggles debug information
+
+BFS Level Search :
+[] store room properties like the adjacent rooms, along with whether it is a boss room, treasure room, and if it contains
+-- -- hearts or any other collectibles in it and then allow the goal to be finding an unvisited room or the boss room
+
+[] if there are multiple unvisited doors then just go to the closest one
+
+TEST CASES (SEEDS)
+[X] N8ERWR90 (has unreachable pedestal item and mandatory button on first floor)
+
+NAVIGATE:
+[] if you can't get a pedestal item, then just move on
+[] if a pedestal item spawns after you're already navigating to the door, re-navigate to that item
+[] if the doors are already open, ignore the pressure plates
+[] pick up items on floor
+[] don't pick up item if it is a heart or battery you can't consume
+[] issue with BOSS RUSH, tries to leave room after picking up item
+[] ROOM NAVIGATION RANKING
+  [] go into angel rooms and devil rooms
+  [] go into unvisited treasure rooms
+  [] go into boss rooms
+
+[] don't consider the following as enemies to attack
+  [] spike blocks
+  [] statues (STONEHEAD) [42.0.0]
+  [] (DEATHS_HEAD)
+  [] the doors in the mom room are always considered enemies
+
+
+aStar Room Search :
+[] add cost for spider webs, chests, etc.
+[] also we need to let isaac know that he can break POOP and FIRE tiles if he wants to get through them
+[] also we need to special case the on and off spikes, since isaac needs to go over them in some cases when they are off
+[] TODO nextValidGridIndices needs to be updated to deal with diagonal movement blocking cases
+[] TODO increase cost of moving diagonally in aStarRoomSearch (maybe just bring back smoothing?)
+[] TODO he kinda just walks into the pedestal forever if his starting position was on the pedestal
+[] if you're flying, change the search to rage through objects
+[] IF THERE ARE MULTIPLE PEDESTAL ITEMS AND ONE IS BLOCKED, CHOOSE THE OTHER
