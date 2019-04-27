@@ -1,5 +1,5 @@
-# CS4100 Artificial Intelligence
-### Final Project for Matthew DiLoreto and Kristofer Brethower
+# The Binding of Isaac Afterbirth AI Mod
+### by Kristofer Brethower
 
 This repository contains an agent to play the game [_"The Binding of Issac: Afterbirth+"_](https://store.steampowered.com/agecheck/app/570660/).
 
